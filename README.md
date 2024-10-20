@@ -1,6 +1,6 @@
-### Realtime Dashboard from RealtimeResponses Technologies
+## Realtime Dashboard from RealtimeResponses Technologies
 
-## Installation
+### Installation
 
 * Clone or Download the Repo
 
